@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Proyecto_Vacio</RootNamespace>
+	<BaseOutputPath>bin</BaseOutputPath>
 	<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS> 
 	<InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
